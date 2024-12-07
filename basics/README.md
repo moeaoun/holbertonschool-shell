@@ -1,1 +1,1 @@
-this is my basics shell
+shell basics
